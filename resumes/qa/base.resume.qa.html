@@ -6,7 +6,7 @@
     <title>Quality Assurance Engineer</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <link rel="stylesheet" href="../../theme/green.theme.css">
+    <link rel="stylesheet" href="../../theme/green.theme.css" />
     <style>
       * {
         margin: 0;
@@ -530,9 +530,7 @@
     <script>
       async function loadResumeData() {
         try {
-          const response = await fetch(
-            "../../data/qa/base.data.qa.json",
-          );
+          const response = await fetch("../../data/qa/base.data.qa.json");
           const data = await response.json();
 
           document.getElementById("personal-name").textContent =
