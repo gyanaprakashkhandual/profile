@@ -1,0 +1,60 @@
+GYANA PRAKASH KHANDUAL
+Full Stack Web Developer
+   +91 7606939833  |   gyanaprakashkhandual@gmail.com |  https://gyanprakash.vercel.app |   https://github.com/gyanaprakashkhandual  
+
+PROFESSIONAL SUMMARY
+Full Stack Web Developer specializing in React, Next.js, Node.js and MongoDB, with 4 production apps shipped at Avidus Interactive. Experienced in AI integrations using Anthropic and GPT APIs, serving 7,725+ active users.
+TECHNICAL SKILLS
+Frontend
+React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI, Framer Motion
+Backend
+Node.js, Express.js, REST APIs, GraphQL, Anthropic and OpenAI APIs, JWT, OAuth, WebSockets 
+Database
+MongoDB,  MySQL, Convex, PostgreSQL, Redis, Firebase, Valkey
+State Management
+Redux, Context API, ReduxJS Toolkit, Zustand, Recoil, Jotai
+Tools & DevOps
+Git, GitHub, Vercel, Render, Jira, Figma, VS Code, Kubernetes, Docker, AWS, Linux
+Testing 
+Cypress, Jest, Selenium, Chai, Mocha, Playwright, Rest Assured, Postman, Grafana, BurpSuite 
+
+
+WORK EXPERIENCE
+Full Stack Web Developer  —  Avidus Interactive
+Jan 2025 – Apr 2026
+
+Shipped 4 production web apps end-to-end — from architecture to client handover, on time.
+Built full-stack systems in React, Next.js, Node.js and MongoDB serving 1,235+ users across 4 client apps.
+Collaborated with design and QA teams via Figma and Jira, saving 2hrs daily in review cycles.
+Automated CI/CD pipelines on AWS, cutting deployment time by 50% via Linux automation scripts.
+
+KEY PROJECTS
+Caffetest  —  AI-Powered Bug Tracker & VS Code Extension   View App  Source Code
+VS Code extension that monitors Selenium test runs and syncs results to a dashboard serving 7,725+ users.
+Integrated Anthropic  APIs to auto-generate bugs and test cases, reducing manual reporting time by ~60%.
+Full integration with GitHub, VS Code and Google Docs across 3 platforms for seamless developer workflow.
+
+Fetch  —  AI-Powered API Testing Tool (Postman Alternative)    View App  Source Code  
+Connects to GitHub repos via VS Code; AI reads backend code and auto-generates API requests 10x faster.
+Autonomously runs tests across 100+ endpoints, producing structured reports and  results in the Editor.
+Auto validate API responses (schema, status code, edge cases) to catch bugs early and reduce manual effort.
+
+Todo  —  Task Management Application with complete environment   View App  Source Code 
+React + Node.js to-do app with full CRUD and MongoDB persistence across web, desktop and mobile.
+Implements authentication with JWT, securing 100% of user-specific tasks across sessions.
+Features responsive UI with real-time updates, reducing load time by 40% and improving user experience. 
+EDUCATION
+Bachelor of Computer Applications
+Utkal University
+May 2021 - May 2024
+Completed
+Full Stack Web Development
+Masai School
+June 2024 - Dec 2025
+Completed
+Master of Computer Applications
+IGNOU - KIIT
+June 2024 - June 2026
+Ongoing
+
+
