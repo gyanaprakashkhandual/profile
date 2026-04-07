@@ -5,12 +5,13 @@ Hybrid engineer owning dev, QA, and security end-to-end. Sole SDET for 7 teams a
 ---
 
 ## Projects
-| # | Project | Description | GitHub | Users | Skills |
-|---|---------|-------------|--------|-------|--------|
-| 1 | **Caffetest** | AI bug tracker + VS Code extension. Auto-generates test cases & bug reports from Selenium scripts. | [![Backend](https://img.shields.io/badge/Backend-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/GyanaprakashKhandual/Bug-tracker-backend) [![Frontend](https://img.shields.io/badge/Frontend-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/GyanaprakashKhandual/Bug-tracker-frontend) | 1,200+ | Next.js, Node.js, MongoDB |
-| 2 | **PISL Infra** | Unified UI, API, perf & security testing framework with SVG dashboards from k6 metrics. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/GyanaprakashKhandual/pisl-infra-testing) | 340+ | React, Node.js, Grafana |
-| 3 | **showmarkdown** | Lightweight React lib that renders Markdown strings into styled UI with syntax highlighting. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/GyanaprakashKhandual/markdown) | 890+ | React, Node.js, N/A |
-| 4 | **Veloria** | Open-source accessible, composable, themeable React UI components for production apps. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/GyanaprakashKhandual) | 2,100+ | React, Node.js, N/A |
+
+| Project        | Description                                                                                                | GitHub                                                                                                                                                          | Users  | Skills           |
+| -------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| **Caffetest**  | AI bug tracker + VS Code extension. Auto-generates test cases & bug reports from Selenium scripts.         | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/bug-tracker-frontend) | 200+   | Next.js, Node.js |
+| **PISL Infra** | Unified UI, API, perf & security testing framework with SVG dashboards from k6 metrics.                    | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/pisl)                 | NA     | Grafana, K6      |
+| **Cucumber**   | Selenium Cucumber is Visual Studio code Extension, Which help user to genrate the steps from feature file. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/seleniumcucumber)     | 8000+  | React, TS, NPM   |
+| **Veloria**    | Open-source accessible, composable, themeable React UI components for production apps.                     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/veloria)              | 2,100+ | React, TS, NPM   |
 
 ---
 
@@ -18,15 +19,15 @@ Hybrid engineer owning dev, QA, and security end-to-end. Sole SDET for 7 teams a
 
 ### Full Stack Web Developer & SDET — Avidus Interactive
 
-`October 2025 – Present` · Remote
+`January 2025 – Present` · Remote
 
 **Development**
 
-Delivered 8+ production applications built with React, Next.js, and Node.js, with RESTful APIs and CI/CD pipelines achieving 50% faster deployments and 99% uptime. Architected full UI/UX for web and mobile products end to end from scratch.
+8+ production apps (React/Next.js/Node.js, REST APIs, CI/CD) → 50% faster deploys, 99% uptime. End-to-end UI/UX for web + mobile from zero.
 
 **Quality Assurance**
 
-Sole QA engineer across 7 cross-functional teams maintaining zero customer complaints. Automated UI and API pipelines reducing testing time by 50% and achieving 99% release quality. Resolved 100+ production issues in Agile sprints through Jira.
+Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster testing, 99% release quality. 100+ production issues resolved in Agile/Jira.
 
 ---
 
@@ -60,7 +61,7 @@ Pursuing · Relevant coursework: Data Structures, Operating Systems, Computer Ne
 | Platform  | Link                                                                                      |
 | --------- | ----------------------------------------------------------------------------------------- |
 | Portfolio | [gyanprakash.vercel.app](https://gyanprakash.vercel.app)                                  |
-| GitHub    | [github.com/GyanaprakashKhandual](https://github.com/GyanaprakashKhandual)                |
+| GitHub    | [github.com/gyanaprakashkhandual](https://github.com/gyanaprakashkhandual)                |
 | LinkedIn  | [linkedin.com/in/gyanaprakashkhandual](https://www.linkedin.com/in/gyanaprakashkhandual/) |
 | Email     | [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)                   |
 | npm       | [npmjs.com/~gyanaprakashkhandual](https://www.npmjs.com/~gyanaprakashkhandual)            |
