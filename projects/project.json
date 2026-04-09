@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Caffetest",
+      "type": "web_application",
+      "status": "active",
+      "user_id": 6625,
+      "urls": {
+        "app": "https://caffetest.vercel.app",
+        "github_frontend": "https://github.com/gyanaprakashkhandual/bug-tracker-frontend",
+        "github_backend": "https://github.com/gyanaprakashkhandual/bug-tracker-backend"
+      },
+      "description": "Auto bug logging and test case generation according to test results, integrating with VSCode.",
+      "integrations": ["VSCode"],
+      "tags": ["bug-tracker", "test-case-generator", "vscode-integration"]
+    },
+    {
+      "id": 2,
+      "name": "Fetch",
+      "type": "web_application",
+      "status": "active",
+      "user_id": 100,
+      "urls": {
+        "app": "https://fetch.vercel.app",
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "Automated API testing with complete API test integration via GitHub, synced with backend code and database.",
+      "integrations": ["GitHub", "Database"],
+      "tags": ["api-testing", "github-integration", "automation"]
+    },
+    {
+      "id": 3,
+      "name": "Todo",
+      "type": "web_application",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": "https://toodoooo.vercel.app",
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "Web-based todo application.",
+      "integrations": [],
+      "tags": ["todo", "productivity"]
+    },
+    {
+      "id": 4,
+      "name": "Feel",
+      "type": "web_application",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": "http://feel.vercel.app",
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": null,
+      "integrations": [],
+      "tags": []
+    },
+    {
+      "id": 5,
+      "name": "ShowMarkdown",
+      "type": "npm_package",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": null,
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "An NPM package to render Markdown (.md) content for React applications.",
+      "integrations": ["React"],
+      "tags": ["npm", "markdown", "react", "renderer"]
+    },
+    {
+      "id": 6,
+      "name": "Caffetest Tracker",
+      "type": "vscode_extension",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": null,
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "VSCode extension for the Caffetest bug tracking and test case generation workflow.",
+      "integrations": ["VSCode"],
+      "tags": ["vscode-extension", "bug-tracker", "caffetest"]
+    },
+    {
+      "id": 7,
+      "name": "Selenium Cucumber Pro",
+      "type": "vscode_extension",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": null,
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "VSCode extension for Selenium and Cucumber-based test automation.",
+      "integrations": ["VSCode", "Selenium", "Cucumber"],
+      "tags": ["vscode-extension", "selenium", "cucumber", "test-automation"]
+    },
+    {
+      "id": 8,
+      "name": "Todo Mobile",
+      "type": "mobile_application",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": null,
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "Mobile version of the Todo application.",
+      "integrations": [],
+      "tags": ["todo", "mobile", "productivity"]
+    },
+    {
+      "id": 9,
+      "name": "Todo Desktop",
+      "type": "desktop_application",
+      "status": "active",
+      "user_id": null,
+      "urls": {
+        "app": null,
+        "github_frontend": null,
+        "github_backend": null
+      },
+      "description": "Desktop version of the Todo application.",
+      "integrations": [],
+      "tags": ["todo", "desktop", "productivity"]
+    }
+  ],
+  "meta": {
+    "total_projects": 9,
+    "project_types": {
+      "web_application": 4,
+      "npm_package": 1,
+      "vscode_extension": 2,
+      "mobile_application": 1,
+      "desktop_application": 1
+    },
+    "last_updated": "2026-04-09"
+  }
+}
